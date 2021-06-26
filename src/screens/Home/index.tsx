@@ -1,8 +1,5 @@
 import React, { useState, useCallback } from 'react';
-import {
-  View,
-  FlatList
-} from 'react-native';
+import { View, FlatList } from 'react-native';
 import { useNavigation, useFocusEffect } from '@react-navigation/native';
 
 import { CategorySelect } from '../../components/CategorySelect';
@@ -42,7 +39,7 @@ export function Home() {
     const storage: AppointmentProps[] = response ? JSON.parse(response) : [];
 
     if (category) {
-      setAppointments(storage.filter(item => item.category === category));
+      setAppointments(storage.filter((item) => item.category === category));
     } else {
       setAppointments(storage);
     }
@@ -50,9 +47,11 @@ export function Home() {
     setLoading(false);
   }
 
-  useFocusEffect(useCallback(() => {
-    loadAppointments();
-  }, [category]));
+  useFocusEffect(
+    useCallback(() => {
+      loadAppointments();
+    }, [category])
+  );
 
   return (
     <Background>
@@ -60,25 +59,17 @@ export function Home() {
         <Profile />
         <ButtonAdd onPress={handleAppointmentCreate} />
       </View>
-      <CategorySelect
-        categorySelected={category}
-        setCategory={handleCategorySelect}
-      />
-      {
-        loading ? <Load /> :
+      <CategorySelect categorySelected={category} setCategory={handleCategorySelect} />
+      {loading ? (
+        <Load />
+      ) : (
         <>
-          <ListHeader
-            title="Partidas agendadas"
-            subtitle={`Total ${appointments.length}`}
-          />
+          <ListHeader title="Partidas agendadas" subtitle={`Total ${appointments.length}`} />
           <FlatList
             data={appointments}
-            keyExtractor={item => item.id}
+            keyExtractor={(item) => item.id}
             renderItem={({ item }) => (
-              <Appointment
-                data={item}
-                onPress={() => handleAppointmentDetails(item)}
-              />
+              <Appointment data={item} onPress={() => handleAppointmentDetails(item)} />
             )}
             ItemSeparatorComponent={() => <ListDivider />}
             contentContainerStyle={{ paddingBottom: 69 }}
@@ -86,7 +77,7 @@ export function Home() {
             showsVerticalScrollIndicator={false}
           />
         </>
-      }
+      )}
     </Background>
   );
 }

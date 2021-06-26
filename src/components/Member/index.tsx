@@ -12,11 +12,11 @@ export type MemberProps = {
   username: string;
   avatar_url: string;
   status: string;
-}
+};
 
 type Props = {
   data: MemberProps;
-}
+};
 
 export function Member({ data }: Props) {
   const { on, primary } = theme.colors;
@@ -27,22 +27,18 @@ export function Member({ data }: Props) {
       <Avatar urlImage={data.avatar_url} />
 
       <View>
-        <Text style={styles.title}>
-          { data.username }
-        </Text>
+        <Text style={styles.title}>{data.username}</Text>
 
         <View style={styles.status}>
-          <View 
+          <View
             style={[
               styles.bulletStatus,
               {
-                backgroundColor: isOnline ? on : primary
-              }
+                backgroundColor: isOnline ? on : primary,
+              },
             ]}
           />
-          <Text style={styles.nameStatus}>
-            { isOnline ? 'Disponível' : 'Ocupado' }
-          </Text>        
+          <Text style={styles.nameStatus}>{isOnline ? 'Disponível' : 'Ocupado'}</Text>
         </View>
       </View>
     </View>

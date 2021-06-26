@@ -41,7 +41,7 @@ export const styles = StyleSheet.create({
     width: '100%',
     flexDirection: 'row',
     justifyContent: 'space-between',
-    marginTop: 30
+    marginTop: 30,
   },
   column: {
     flexDirection: 'row',
@@ -51,7 +51,7 @@ export const styles = StyleSheet.create({
     marginRight: 4,
     fontSize: 15,
     fontFamily: theme.fonts.text500,
-    color: theme.colors.highlight
+    color: theme.colors.highlight,
   },
   caracteresLimit: {
     fontFamily: theme.fonts.text400,
@@ -60,6 +60,6 @@ export const styles = StyleSheet.create({
   },
   footer: {
     marginVertical: 20,
-    marginBottom: 56
-  }
-})
+    marginBottom: 56,
+  },
+});

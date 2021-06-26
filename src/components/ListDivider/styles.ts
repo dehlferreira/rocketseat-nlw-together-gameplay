@@ -8,4 +8,4 @@ export const styles = StyleSheet.create({
     backgroundColor: theme.colors.secondary40,
     alignSelf: 'flex-end',
   },
-})
+});

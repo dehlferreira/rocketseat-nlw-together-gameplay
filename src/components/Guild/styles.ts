@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 24,
   },
-  content: {  
+  content: {
     flex: 1,
     justifyContent: 'center',
     marginLeft: 20,
@@ -23,5 +23,5 @@ export const styles = StyleSheet.create({
     fontFamily: theme.fonts.text400,
     color: theme.colors.highlight,
     fontSize: 13,
-  }
-})
+  },
+});

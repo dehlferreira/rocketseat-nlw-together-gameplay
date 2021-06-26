@@ -6,4 +6,4 @@ export const styles = StyleSheet.create({
     maxHeight: 120,
     paddingLeft: 24,
   },
-})
+});
