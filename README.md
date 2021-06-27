@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="#-branchs">Branchs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-branchs">Branchs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-configuração">Configuração</a>&nbsp;&nbsp;&nbsp;
@@ -37,11 +38,11 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 
 Caso queira acompanhar como foi a evolução durante a semana, segue abaixo os links para as branchs criadas conforme as aulas foram sendo liberadas durante a NLW:
 
-- [1º Dia - feat/first-day](https://github.com/dehlferreira/rocketseat-nlw03/tree/feat/first-day)
-- [2º Dia - feat/second-day](https://github.com/dehlferreira/rocketseat-nlw03/tree/feat/second-day)
-- [3º Dia - feat/third-day](https://github.com/dehlferreira/rocketseat-nlw03/tree/feat/third-day)
-- [4º Dia - feat/fourth-day](https://github.com/dehlferreira/rocketseat-nlw03/tree/feat/fourth-day)
-- [5º Dia - feat/fifth-day](https://github.com/dehlferreira/rocketseat-nlw03/tree/feat/fifth-day)
+- [1º Dia - feat/first-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/first-day)
+- [2º Dia - feat/second-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/second-day)
+- [3º Dia - feat/third-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/third-day)
+- [4º Dia - feat/fourth-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/fourth-day)
+- [5º Dia - feat/fifth-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/fifth-day)
 
 ## :hammer_and_wrench: Features
 
@@ -93,7 +94,7 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 No terminal clone o projeto para o diretório desejado:
 
 ```
-git clone https://github.com/dehlferreira/?????
+git clone https://github.com/dehlferreira/rocketseat-nlw-together-gameplay.git
 ```
 
 ## ⚙ Instalando dependências
@@ -101,7 +102,7 @@ git clone https://github.com/dehlferreira/?????
 Para instalar, acesse o diretório onde você clonou o projeto:
 
 ```
-cd ??????
+cd rocketseat-nlw-together-gameplay
 ```
 
 Instale as dependências:
