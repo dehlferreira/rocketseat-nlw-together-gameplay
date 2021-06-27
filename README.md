@@ -60,22 +60,22 @@ Caso queira acompanhar como foi a evolução durante a semana, segue abaixo os l
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ ] [React Native](https://reactnative.dev/docs/getting-started)
-- [ ] [Typescript](https://www.typescriptlang.org/docs/)
-- [ ] [Expo](https://docs.expo.io/)
-- [ ] [Context API](https://pt-br.reactjs.org/docs/context.html)
-- [ ] [Async Storage](https://reactnative.dev/docs/asyncstorage)
-- [ ] [Vector Icons](https://docs.expo.io/guides/icons/)
-- [ ] [React Native Svg e Svg Transform](https://docs.expo.io/versions/latest/sdk/svg/)
-- [ ] [Axios](https://www.npmjs.com/package/axios)
-- [ ] [Gradient colors](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
-- [ ] [OAuth2 Discord ](https://discord.com/developers/docs/topics/oauth2)
-- [ ] [Expo Google Fonts](https://docs.expo.io/guides/using-custom-fonts/)
-- [ ] [React Navigation Stack](https://reactnavigation.org/docs/stack-navigator/)
-- [ ] [React Native Gesture Handler](https://reactnavigation.org/docs/getting-started)
-- [ ] [Expo Authentication](https://docs.expo.io/guides/authentication/)
-- [ ] [React Native Share](https://reactnative.dev/docs/share)
-- [ ] [Deep Link](https://reactnavigation.org/docs/deep-linking/)
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [Typescript](https://www.typescriptlang.org/docs/)
+- [Expo](https://docs.expo.io/)
+- [Context API](https://pt-br.reactjs.org/docs/context.html)
+- [Async Storage](https://reactnative.dev/docs/asyncstorage)
+- [Vector Icons](https://docs.expo.io/guides/icons/)
+- [React Native Svg e Svg Transform](https://docs.expo.io/versions/latest/sdk/svg/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Gradient colors](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
+- [OAuth2 Discord ](https://discord.com/developers/docs/topics/oauth2)
+- [Expo Google Fonts](https://docs.expo.io/guides/using-custom-fonts/)
+- [React Navigation Stack](https://reactnavigation.org/docs/stack-navigator/)
+- [React Native Gesture Handler](https://reactnavigation.org/docs/getting-started)
+- [Expo Authentication](https://docs.expo.io/guides/authentication/)
+- [React Native Share](https://reactnative.dev/docs/share)
+- [Deep Link](https://reactnavigation.org/docs/deep-linking/)
 
 ## 🔖 Layout
 
