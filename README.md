@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-branchs">Branchs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-:hammer_and_wrench: Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -44,7 +44,7 @@ Caso queira acompanhar como foi a evolução durante a semana, segue abaixo os l
 - [4º Dia - feat/fourth-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/fourth-day)
 - [5º Dia - feat/fifth-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/fifth-day)
 
-## :hammer_and_wrench: Features
+## 🛠️ Features
 
 - [ ] Autenticação Social OAuth2 com servidor do Discord.
 - [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
