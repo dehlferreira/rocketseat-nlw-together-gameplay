@@ -44,7 +44,7 @@ Caso queira acompanhar como foi a evolução durante a semana, segue abaixo os l
 - [4º Dia - feat/fourth-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/fourth-day)
 - [5º Dia - feat/fifth-day](https://github.com/dehlferreira/rocketseat-nlw-together-gameplay/tree/feat/fifth-day)
 
-## 🛠️ Features
+## 🛠 Features
 
 - [ ] Autenticação Social OAuth2 com servidor do Discord.
 - [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
