@@ -46,15 +46,15 @@ Caso queira acompanhar como foi a evolução durante a semana, segue abaixo os l
 
 ## 🛠 Features
 
-- [ ] Autenticação Social OAuth2 com servidor do Discord.
-- [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
-- [ ] Lista os servidores do Discord que o usuário faz parte;
-- [ ] Permite realizar o agendamento de partidas;
-- [ ] Permite filtrar as partidas por categoria;
-- [ ] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
-- [ ] Compartilha o convite para ingressar no servidor do usuário;
-- [ ] Permite redirecionar o usuário para o seu próprio servidor;
-- [ ] Disponibiliza a função de Logout.
+- Autenticação Social OAuth2 com servidor do Discord
+- Obtém perfil do usuário cadastro no Discord (username e avatar)
+- Lista os servidores do Discord que o usuário faz parte
+- Permite realizar o agendamento de partidas
+- Permite filtrar as partidas por categoria
+- Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado)
+- Compartilha o convite para ingressar no servidor do usuário
+- Permite redirecionar o usuário para o seu próprio servidor
+- Disponibiliza a função de Logout
 
 ## 🚀 Tecnologias
 
